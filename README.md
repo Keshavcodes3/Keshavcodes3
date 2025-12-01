@@ -1,7 +1,7 @@
 # Hi there, I'm Keshav Chetri 👋
 
 ## 🎓 About Me
-- 💻 BCA Student at Digboi College
+- 💻 BSC Student 
 - 🌱 Learning Full-Stack Development & Data Science
 - 🚀 Building projects in React, Node.js, and Machine Learning
 - 🏆 Practicing DSA and Competitive Programming
