@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Keshav Chetri
 
-A passionate **Full-Stack Developer** and **Data Science Enthusiast** from Assam, India. Currently pursuing a **Bachelor of Computer Science (BCS)** while actively engaged in a **360-day coding challenge** and building scalable web applications.
+A Aspiring passionate **Full-Stack Developer** and **Data Science Enthusiast** from Assam, India. Currently pursuing a **Bachelor of Computer Science (BCS)** while actively engaged in a **360-day coding challenge** and building scalable web applications.
 
 ---
 
