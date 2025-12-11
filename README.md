@@ -4,8 +4,7 @@
 - 💻 BSC Student 
 - 🌱 Learning Full-Stack Development & Data Science
 - 🚀 Building projects in React, Node.js, and Machine Learning
-- 🏆 Practicing DSA and Competitive Programming
-- 🎯 Goal: Contributing to GSOC and landing at top tech companies
+- 🏆 Practicing DSA
 
 ## 🛠️ Tech Stack
 
