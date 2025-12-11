@@ -70,11 +70,10 @@ A full-stack web development project showcasing responsive design and modern web
 
 ## 🎓 Currently Learning
 
-- ✅ Advanced Data Structures & Algorithms
+- ✅  Data Structures & Algorithms
 - ✅ Full-Stack Web Development with React & Node.js
 - ✅ Machine Learning & Data Science
-- ✅ System Design & Interview Preparation
-- ✅ AutoML & Data Visualization Tools
+
 
 ---
 
@@ -89,12 +88,12 @@ A full-stack web development project showcasing responsive design and modern web
 
 ## 📈 Goals & Aspirations
 
-✨ **2025 Goals:**
+✨ **2026 Goals:**
 - Complete 360-day coding challenge
 - Master DSA through pattern-based learning
 - Build 5+ production-ready projects
 - Contribute to open-source projects
-- Secure internship/placement opportunity
+
 
 ---
 
